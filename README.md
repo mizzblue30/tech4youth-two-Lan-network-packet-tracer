@@ -1,4 +1,5 @@
 # tech4youth-two-Lan-network-packet-tracer
+![Topology](topology.png)
 ## Addressing
 | Device | Interface | IP Address | Mask | Gateway |
 |---|---|---|---|---|
